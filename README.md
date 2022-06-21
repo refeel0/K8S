@@ -1,5 +1,3 @@
-# 이 페이지는 K8S DB테스트 페이지입니다.
+# Database On K8S Test
 
-
-SELECT
-* FROM DUAL; 
+이 페이지는 K8S DB테스트 페이지입니다.
